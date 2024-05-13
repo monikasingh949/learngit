@@ -6,5 +6,4 @@ This is a git learning repo
 3 commit the change
 4 push the changes 
 
-
-Create a new branch
+create a new branch - conflict fixed
