@@ -6,4 +6,4 @@ This is a git learning repo
 3 commit the change
 4 push the changes 
 
-create a branch in feature1
+create a new branch - conflict fixed
